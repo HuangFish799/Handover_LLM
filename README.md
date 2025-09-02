@@ -57,7 +57,7 @@ ollama run llama3
 
 #### 3. 啟動後點擊右側設定新增 **Plugins**
 
-![neo4j plugin](docs/images/neo4j_plugin.png)
+![neo4j plugin](docs/images/neo4j_plugin.PNG)
 
 #### 4. 下載 **APOC** 套件
     - **APOC** 是 Neo4j 官方維護的功能擴充套件 (plugin)，全名為 **Awesome Procedures On Cypher**。
