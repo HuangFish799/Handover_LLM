@@ -53,15 +53,15 @@ ollama run llama3
 ![neo4j desktop](docs/images/neo4j_download.png)
 
 #### 2. 創建新的 Instance
-    - 需輸入 Instance 名稱、帳號、密碼
+- 需輸入 Instance 名稱、帳號、密碼
 
 #### 3. 啟動後點擊右側設定新增 **Plugins**
 
 ![neo4j plugin](docs/images/neo4j_plugin.PNG)
 
 #### 4. 下載 **APOC** 套件
-    - **APOC** 是 Neo4j 官方維護的功能擴充套件 (plugin)，全名為 **Awesome Procedures On Cypher**。
-    - 它提供了大量的 **procedure** 與 **function**，讓 Cypher 查詢語言能處理更多資料操作、整合與分析工作。
+- **APOC** 是 Neo4j 官方維護的功能擴充套件 (plugin)，全名為 **Awesome Procedures On Cypher**。
+- 它提供了大量的 **procedure** 與 **function**，讓 Cypher 查詢語言能處理更多資料操作、整合與分析工作。
 
 ![neo4j apoc](docs/images/neo4j_apoc.png)
 ---
