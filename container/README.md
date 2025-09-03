@@ -1,3 +1,5 @@
+### 0. 建立 `data` 資料夾並放入 `example_paper.pdf`
+
 ### 1. 在專案根目錄執行
 
 ```bash
